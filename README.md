@@ -103,6 +103,57 @@ npm run dev
 - **Backend API**: http://localhost:8000/api
 - **Admin Panel**: http://localhost:8000/admin
 
+## 🚀 Deployment
+
+Frontend:	React (Vite)
+Backend:	Django REST Framework
+Database:	PostgreSQL
+Containerization:	Docker
+Deployment	Vercel
+CI/CD: vercel + Github Actions
+Monitoring:Vercel Analytics
+
+## 🌍 Live Link
+
+https://edu-mind-solutions.vercel.app
+
+## 🧪 Testing Results
+Different testings were done:
+Functional Testing 
+Testing with Different Data Values
+Testing on Different Hardware/Software
+<img width="1366" height="768" alt="error handling" src="https://github.com/user-attachments/assets/f39440a3-a082-4c49-aa28-4c8dc10d7fc1" />
+
+<img width="1366" height="768" alt="Empty fields" src="https://github.com/user-attachments/assets/88a5206c-ee0d-4529-ab75-e432d6a87a8c" />
+<img wid![App running on a mobile device](https://github.com/user-attachments/assets/e5632aa5-464a-4cf6-b3f4-20f4397da389)
+th="1366" height="768" alt="App running on a different browse(Microsoft Edge)" src="https://github.com/user-attachments/assets/527bdd4b-de73-4ead-a778-cf073c760cd0" />
+<img width="1366" height="768" alt="invalid email" src="https://github.com/user-attachments/assets/e4c064b2-6e07-4f05-98e3-58b15adaf8d0" />
+
+
+## 📊 Analysis
+
+The results demonstrated that the project achieved its initial objectives outlined in the proposal.
+The primary objective of this project was to design and develop a mobile application that enhances mental health awareness, facilitates early detection, and promotes access to support services among young people in Rwanda, thereby reducing stigma and increasing help-seeking behavior. So it was achieved as we have;
+- Successful deployment and integration of all system components.
+- Responsive and stable performance across devices.
+- All core functionalities work as intended.
+
+## 💬 Discussion
+
+This project demonstrates the importance of iterative development and continuous testing in achieving reliable full-stack deployment.
+Through the milestones achieved design, containerization, deployment, and testing the system reflects the real-world software engineering process of planning, automation, and monitoring.
+The collaboration and feedback process with the supervisor helped ensure alignment with the original goals and quality standards.
+
+## Recommendations and Future Work
+The community is encouraged to use the mental health app to promote awareness, self-care, and peer support while fostering open discussions and early intervention for mental well-being.
+For future improvement:
+- Add offline mode or caching for better performance in low connectivity areas.
+- Optimize container images for faster deployment and reduced resource usage.
+
+## Demo Video
+
+Link to the demo video: https://www.loom.com/share/82fa543a3dc643f399169cc95b59683c
+
 ## 📋 API Documentation
 
 ### Authentication Endpoints
@@ -302,30 +353,6 @@ VITE_ENABLE_PEER_MATCHING=true
 # Analytics
 VITE_ANALYTICS_ID=your-analytics-id
 ```
-
-
-
-
-
-## 🤝 Contributing
-
-### Development Workflow
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Make your changes
-4. Run tests: `npm test` and `python manage.py test`
-5. Commit changes: `git commit -m 'Add amazing feature'`
-6. Push to branch: `git push origin feature/amazing-feature`
-7. Open a Pull Request
-
-### Code Standards
-
-- **Backend**: Follow PEP 8 Python style guide
-- **Frontend**: ESLint + Prettier configuration
-- **Commits**: Conventional commit messages
-- **Documentation**: Update README and API docs
-
 
 ## 🆘 Crisis Support
 
