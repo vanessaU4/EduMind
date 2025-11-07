@@ -365,11 +365,4 @@ VITE_ANALYTICS_ID=your-analytics-id
 The platform includes built-in crisis intervention tools and direct connections to professional support services.
 
 
-## 🙏 Acknowledgments
-
-- Mental health professionals who provided clinical guidance
-- Youth advisory board for user experience feedback
-- Open source community for foundational technologies
-- Healthcare compliance experts for security guidance
-
 ---
